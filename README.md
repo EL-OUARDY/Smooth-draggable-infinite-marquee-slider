@@ -1,6 +1,10 @@
 # Smooth Draggable Infinite Marquee Slider
 
-A smooth, infinite, draggable marquee slider implementation using GSAP (GreenSock Animation Platform).
+A smooth, infinite, draggable marquee slider implementation using GSAP
+
+**[Live Demo 🚀](https://smooth-draggable-slider.vercel.app)**
+
+![Screenshot](screenshot.png)
 
 ## Description
 
